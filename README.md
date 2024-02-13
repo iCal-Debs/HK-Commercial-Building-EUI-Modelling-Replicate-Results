@@ -1,2 +1,2 @@
-# HK-Commercial-Building-EUI-Modelling-Validate
-Urban building energy use research - practice and validation
+# HK-Commercial-Building-EUI-Modelling-Replicate Results
+Urban building energy use research - replicate results
